@@ -6,7 +6,7 @@
 
 - **Языки и фреймворки**: JavaScript, TypeScript, React, Next.js
 - **Управление состоянием**: Redux Toolkit, Redux Saga (знаком также с MobX и другими стейт-менеджерами)
-- **UI-библиотеки**: Material UI, Ant Design, Styled Components, CSS Modules, Tailwind CSS
+- **UI-библиотеки**: Material UI, Ant Design, Styled Components, Tailwind CSS
 - **CSS-in-JS и модульные стили**: Styled Components, CSS Modules, LESS, SCSS, SASS
 - **Визуализация данных**: Recharts, Chart.js, MapBox, D3.js
 - **Работа с данными и API**: Fetch API, RTK Query, Axios, GraphQL, RESTful API, WebSocket, Firebase
