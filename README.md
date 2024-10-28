@@ -11,7 +11,7 @@
 - **Визуализация данных**: Recharts, Chart.js, MapBox, D3.js
 - **Работа с данными и API**: Fetch API, RTK Query, Axios, GraphQL, RESTful API, WebSocket, Firebase
 - **Тестирование и качество кода**: Jest, React Testing Library, Cypress, Storybook, ESLint, Prettier
-- **Инструменты разработки**: Webpack, Vite, Babel, npm, yarn, Git
+- **Инструменты разработки**: Webpack, Vite, Babel, npm, yarn, pnpm, Git
 
 
 **Примечание:** Я открыт к изучению новых технологий и быстро адаптируюсь к новым инструментам и фреймворкам.
